@@ -5,7 +5,6 @@ globals = {
 
 read_globals = {
 	"default",
-	"dye",
 	"mcl_sounds",
 	"ks_sounds",
 	"nodes_nature",
